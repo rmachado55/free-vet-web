@@ -19,3 +19,18 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Adicionando um estilo básico para a barra inferior */
+.content {
+  text-align: center;
+  font-size: 18px;
+}
+
+.bg-cyan-600 {
+  background-color: #06b6d4;
+}
+
+.bg-gray-800 {
+  background-color: #2d3748;
+}
+
